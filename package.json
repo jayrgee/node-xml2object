@@ -1,16 +1,16 @@
 {
-  "author": "Randy Merrill <Zoramite+node@gmail.com> (http://forthedeveloper.com)",
-  "name": "xml2object",
+  "author": "Red Sift",
+  "name": "@redsift/xml2object",
   "description": "Simple XML to JavaScript Object Converter",
-  "version": "0.1.2",
-  "homepage": "https://github.com/emberfeather/node-xml2object",
+  "version": "0.1.3",
+  "homepage": "https://github.com/redsift/node-xml2object",
   "repository": {
     "type": "git",
-    "url": "git://github.com/emberfeather/node-xml2object.git"
+    "url": "git://github.com/redsift/node-xml2object.git"
   },
   "main": "lib/xml2object.js",
   "dependencies": {
-    "sax": ">=0.3.5"
+    "sax": "1.3.0"
   },
   "devDependencies": {
     "mocha": ">=1.20.1"
