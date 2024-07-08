@@ -1,0 +1,11 @@
+<labels>
+    <label>
+        <id>01</id>
+        <name>alpha</name>
+        <sublabels>
+            <label id="11">bravo</label>
+            <label id="12">charlie</label>
+            <label id="13">delta</label>
+        </sublabels>
+    </label>
+</labels>

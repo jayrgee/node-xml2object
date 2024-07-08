@@ -18,6 +18,7 @@
   "optionalDependencies": {},
   "scripts": {
     "test": "mocha",
-    "test:watch": "mocha -w --watch-files lib/*.js,test/*.js"
+    "test:watch": "mocha -w --watch-files lib/*.js,test/*.js",
+    "test:discogs": "mocha -w --watch-files lib/*.js,test/*.js -g 'discogs'"
   }
 }
